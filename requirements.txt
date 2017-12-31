@@ -1,0 +1,9 @@
+numpy==1.11.2
+argh
+pygtp==0.4
+sgf==0.5
+h5py==2.6.0
+scipy==0.18.1
+tensorflow>=1.2
+protobuf==3.1.0.post1
+six==1.10.0
